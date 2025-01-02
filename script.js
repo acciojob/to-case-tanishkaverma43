@@ -3,7 +3,7 @@ function toCase(text) {
 	let case1 = text.toLowerCase();
 	let case2 = text.toUpperCase();
 
-	return case1 + "-"; + case2;
+	return case1 + "-" + case2;
 }
 
 // DO not change the code below
